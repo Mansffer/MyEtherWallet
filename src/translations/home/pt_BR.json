@@ -1,0 +1,85 @@
+{
+  "tagline1": "Ethereum's",
+  "tagline2": "Original Wallet",
+  "subheading": "MyEtherWallet (nossos amigos nos chamam de MEW) é uma interface gratuita do lado do cliente que ajuda você a interagir com a blockchain da Ethereum. Nossa plataforma de código aberto e fácil de usar permite que você gere carteiras, interaja com contratos inteligentes e muito mais.",
+  "create-new-wallet": {
+    "text": "Gere sua própria carteira Ethereum exclusiva. Receba um endereço público (0x...) e escolha um método de acesso e recuperação."
+  },
+  "access-my-wallet": {
+    "text": "Conecte-se a blockchain usando a carteira de sua escolha.",
+    "opt-1": "Enviar e trocar ETH e tokens",
+    "opt-2": "Assinar e Verificar mensagens",
+    "opt-3": "Interaja com Contratos, ENS, Dapps e muito mais!",
+    "button": "Acesse agora"
+  },
+  "about-mew": {
+    "title": "Sobre o MEW",
+    "text": "MyEtherWallet - por favor, chame-nos de MEW - coloca o blockchain Ethereum ao seu alcance. Somos uma equipe de entusiastas de criptografia dedicada a oferecer a você a maneira mais segura, intuitiva e, ousamos dizer, a mais bonita de gerenciar seus tokens ETH e ERC20. We're always here to help, and we're never giving away ETH. Cheers!"
+  },
+  "join-mew": {
+    "title": "Join MEW",
+    "text": "Acesse o cliente de carteira original e mais confiável da blockchain da Ethereum, agora com uma série de novos recursos todos contidos em uma interface elegante e fácil de usar."
+  },
+  "hardware-support": {
+    "title": "Hardware Wallet Support",
+    "text": "MEW offers support for all major hardware wallets including Ledger, Trezor, and many more."
+  },
+  "swap": {
+    "text": "MEW has partnered with Bity, Kyber Network, Changelly, and Simplex to allow users to swap fiat to crypto, ETH and BTC, ETH and ERC20."
+  },
+  "faqs": {
+    "subtitle": "Have not found the question that you are looking for?",
+    "button-see-more": "See More...",
+    "button-here": "here.",
+    "button-learn-more": "Learn more...",
+    "mew-wallet": {
+      "title": "What is MEW wallet?",
+      "text": "MEW wallet is our official fully-fledged mobile app, bringing Ethereum to your iOS or Android phone"
+    },
+    "create-wallet": {
+      "title": "How do I create a new wallet?",
+      "text": "MyEtherWallet (MEW) offers three ways to create a new ETH wallet. These are via MEW wallet, Keystore file, or Mnemonic phrase. For more information, click"
+    },
+    "mewconnect": {
+      "title": "What is MEWconnect?",
+      "text": "MEWconnect is our companion mobile app for MyEtherWallet. We call it a hardware wallet without all the hardware. Now available for all Android and iOS smartphones! Read more"
+    },
+    "other-wallets": {
+      "title": "Can MEW work with other wallets?",
+      "text": "MEW supports many different wallet types including hardware wallets, such as the Ledger Nano S or Trezor, and third-party wallets like MetaMask. We are also open for anyone to use their Ethereum wallets with the appropriate information. Read more"
+    },
+    "send-txs": {
+      "title": "Como posso enviar uma transação?",
+      "text": "O MEW permite que qualquer pessoa com um saldo de tokens ETH ou ERC20 envie uma transação, sem custos adicionais. Usar o blockchain Ethereum exige gás, que é pago em ETH, portanto, recomendamos ter pelo menos 0,01 ETH para cobrir cerca de 2 a 3 transações. Leia mais"
+    },
+    "forgot-pwd": {
+      "title": "Esqueci minha senha/chave privada! O que eu posso fazer?",
+      "text": "O MEW não oferece suporte para recuperar ou redefinir senhas/chaves privadas. Sempre sugerimos anotar as chaves privadas e senhas em papel/cadernos físicos para proteção. Talvez você tenha salvado no seu computador! Para ideias sobre o que procurar, leia mais"
+    }
+  },
+  "social": {
+    "title": "Junte-se à comunidade MEW",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "medium": "Medium",
+    "reddit": "Reddit",
+    "github": "Github",
+    "vkontakte": "Vkontakte",
+    "youtube": "YouTube",
+    "mewtopia": "MEWtopia",
+    "instagram": "Instagram",
+    "telegram": "Telegram"
+  },
+  "lost-title": "Oops! Parece que você está perdido.",
+  "mew-wallet-modal": {
+    "title": "Official MEW wallet App is now available!",
+    "text": "Buy, hold, and send Ether and tokens. Explore Ethereum on your mobile device. {learn-more}",
+    "learn-more": "Saber mais",
+    "footer-text": "Baixe nosso App hoje!",
+    "new": "new",
+    "more": "Mais",
+    "less": "Menos",
+    "hide": "Ocultar",
+    "img-desc": "MEW wallet screenshot"
+  }
+}
